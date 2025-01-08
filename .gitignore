@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# .env file for sensitive data (like API keys)
+.env
+
+# Build files
+build/
+
+# Log files
+*.log
